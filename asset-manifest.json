@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TudoLsitUsingReact/static/css/main.29382cc5.css",
+    "main.js": "/TudoLsitUsingReact/static/js/main.ac4390c0.js",
+    "static/js/787.b15e4d09.chunk.js": "/TudoLsitUsingReact/static/js/787.b15e4d09.chunk.js",
+    "index.html": "/TudoLsitUsingReact/index.html",
+    "main.29382cc5.css.map": "/TudoLsitUsingReact/static/css/main.29382cc5.css.map",
+    "main.ac4390c0.js.map": "/TudoLsitUsingReact/static/js/main.ac4390c0.js.map",
+    "787.b15e4d09.chunk.js.map": "/TudoLsitUsingReact/static/js/787.b15e4d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29382cc5.css",
+    "static/js/main.ac4390c0.js"
+  ]
+}
